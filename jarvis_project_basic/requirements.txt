@@ -1,0 +1,7 @@
+SpeechRecognition==3.14.3
+sounddevice
+numpy
+wikipedia
+pyobjc
+pyobjc-framework-AVFoundation
+google-generativeai>=0.6.16
